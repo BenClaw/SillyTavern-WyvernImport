@@ -1,0 +1,21 @@
+{
+  "name": "wyvern-import",
+  "version": "1.0.0",
+  "description": "Import characters from Wyvern Chat to SillyTavern",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ben Claw",
+  "license": "MIT",
+  "type": "module",
+  "dependencies": {
+    "node-fetch": "^3.3.2",
+    "sanitize-filename": "^1.6.3",
+    "write-file-atomic": "^5.0.1",
+    "jimp": "^0.22.10",
+    "png-chunk-text": "^1.0.0",
+    "png-chunks-encode": "^1.0.0",
+    "png-chunks-extract": "^1.0.0"
+  }
+}

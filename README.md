@@ -7,7 +7,7 @@ Adds a button to import characters directly from WyvernChat URLs.
 1. Open your SillyTavern `plugins` folder.
 2. Clone this repository into a folder named `wyvern-import`.
    ```bash
-   git clone https://github.com/ponesicek/SillyTavern-WyvernImport.git plugins/wyvern-import
+   git clone https://github.com/BenClaw/SillyTavern-WyvernImport.git plugins/wyvern-import
    ```
 3. Open a terminal in `plugins/wyvern-import` and run:
    ```bash
